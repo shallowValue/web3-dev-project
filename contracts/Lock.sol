@@ -6,6 +6,7 @@ pragma solidity ^0.8.9;
 
 contract Lock {
     uint256 valNum = 699;
+    uint256 valNum2 = 700;
     uint public unlockTime;
     address payable public owner;
 
