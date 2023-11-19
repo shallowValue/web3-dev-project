@@ -5,7 +5,7 @@ pragma solidity ^0.8.9;
 // import "hardhat/console.sol";
 
 contract Lock {
-    uint256 valNum = 699;
+    uint256 valNum = 6999;
     uint public unlockTime;
     address payable public owner;
 
